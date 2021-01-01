@@ -1,0 +1,11 @@
+Check to see if you have a version of python on your system
+Download and install the current version of python (3.9.1)  python.org
+Download and install VS Code (if you don't have it already).  
+Add the following extensions:
+1.  Python
+2.  (Jupyter - if it isn't already installed)
+3.  Pylint
+
+Create a run a short little test program
+Test debuggin.
+
